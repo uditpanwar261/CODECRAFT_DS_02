@@ -28,7 +28,7 @@ Predict survival (`0 = No`, `1 = Yes`) on the test set based on the training set
 | 🛠 Feature Engineering | Encoded categorical features (`Sex`, `Embarked`)                      |
 | 🤖 Model Training     | Used **RandomForest** from `scikit-learn`                       |
 | 📈 EDA & Visualization | Visualized survival rates and age distribution using `seaborn`        |
-| 📝 Submission File   | Generated predictions and saved `submission.csv` for Kaggle            |
+
 
 
 ## 🔍 Steps Followed
