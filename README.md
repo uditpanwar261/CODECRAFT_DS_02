@@ -2,7 +2,9 @@
 
 # 🛳️ Titanic - Machine Learning from Disaster 🚢
 
-This repository contains my solution to the **Titanic - Machine Learning from Disaster** Kaggle competition. The goal is to build a predictive model that determines whether a passenger survived the Titanic shipwreck, using passenger data such as age, gender, class, and fare.
+This repository contains my solution to the **Perform data cleaning and exploratory data analysis (EDA) on a Titanic dataset from Kaggle.**. The goal is to explore the relationships between variables and
+identify patterns and trends in the data.
+
 
 ## 📁 Dataset
 
