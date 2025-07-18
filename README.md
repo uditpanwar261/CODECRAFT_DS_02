@@ -1,5 +1,7 @@
 # CODECRAFT_DS_02
 
+# Internship Task 2
+
 # 🛳️ Titanic - Machine Learning from Disaster 🚢
 
 This repository contains my solution to the **Perform data cleaning and exploratory data analysis (EDA) on a Titanic dataset from Kaggle.**. The goal is to explore the relationships between variables and
